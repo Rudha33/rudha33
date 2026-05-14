@@ -1,35 +1,60 @@
-# rudha33, my scrambled profile
+# rudha33 — My Scrambled Profile
 
-Welcome to rudha33's profile.
+---
 
-This is where things work in "let's see what happens" mode.
+![Header GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
+## Welcome
+
+Welcome to **rudha33's profile**.
+
+This is where things work in *"let's see what happens"* mode.
 
 Sometimes it compiles, sometimes it doesn't, but always tries again until it works.
 
-# Interests
+---
 
-Linux and anything that seems complicated enough to be cool
+## Interests
 
-Home servers pretending to be big companies
+- Linux and anything that seems complicated enough to be cool  
+- Home servers pretending to be big companies  
+- Games where the car flies more than it should  
+- Programming in trial and error mode  
 
-Games where the car flies more than it should
+---
 
-Programming in trial and error mode
+## Animated Zone
 
-# Technical Note
- 
+![Working GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+---
+
+## Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## Technical Note
+
 If something here breaks, it wasn't a mistake.
 
 It was just the system "breathing differently".
 
-# Final observation:
+---
 
-This environment is like an overclocked CPU:
-it looks fine on the outside, but inside it's heating up and waiting for someone to touch the wrong button.
-
-# I Don't know area
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudha33&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudha33&layout=compact)
+---
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudha33&layout=compact&theme=tokyonight)
+
+---
