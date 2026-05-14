@@ -27,7 +27,7 @@ Sometimes it compiles, sometimes it doesn't, but always tries again until it wor
 
 ## Animated Zone
 
-![Working GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Working GIF](https://giphy.com/gifs/son-itsburger010-sonion-vB6Yf0DYFWLjEgpScJ)
 
 ---
 
@@ -51,6 +51,7 @@ It was just the system "breathing differently".
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudha33&show_icons=true&theme=tokyonight)
 
+I'm a brazlian dev. big shito
 ---
 
 ## Top Languages
