@@ -29,5 +29,7 @@ it looks fine on the outside, but inside it's heating up and waiting for someone
 
 # I Don't know area
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudha33&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudha33&layout=compact)
