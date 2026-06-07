@@ -23,7 +23,7 @@ Sometimes it compiles, sometimes it doesn't, but always tries again until it wor
 - Home servers pretending to be big companies  
 - Games where the car flies more than it should  
 - Programming in trial and error mode  
-
+-Lua & LuaU And C Is better
 ---
 
 ## Animated Zone
