@@ -10,10 +10,8 @@
 
 Welcome to **rudha33's profile**.
 
-This is where things work in *"let's see what happens"* mode.
-
-Sometimes it compiles, sometimes it doesn't, but always tries again until it works.
-
+Rudha (or rudha33) is a young programer. with native skills on python and e.g
+She follows BCD Schema (Build, Compile, Deploy.)
 ---
 
 ## Interests
