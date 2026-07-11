@@ -1,5 +1,4 @@
-# rudha33 — My Scrambled Profile
-
+# rudha33 — waaaaah
 ---
 
 ![Header GIF](https://i.giphy.com/vB6Yf0DYFWLjEgpScJ.webp)
