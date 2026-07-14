@@ -1,59 +1,35 @@
-# rudha33 — waaaaah
----
+👋 Hi, I'm Rudha
 
-![Header GIF](https://i.giphy.com/vB6Yf0DYFWLjEgpScJ.webp)
+A developer very passionate about technology, programming, and operating systems. I enjoy learning by doing, creating projects from scratch, and exploring how things work under the hood. I'm not working yet; I do everything out of pure curiosity and happiness.
 
-*Why you acess here?*
----
+Languages ​​I use:
+ Python (PyQt6, automation, and desktop applications)
+ C++ (WinAPI, GDI, and native projects)
+ C# / .NET
+ HTML, CSS, and JavaScript (basic)
+ 🚀 Projects:
+ 🌐 rOSN (Rudha Open Source Navigator) — a Python browser developed with PyQt6.
 
-## Welcome
+🖥️ Projects using WinAPI, exploring graphics, windows, and native Windows features.
 
-Welcome to **rudha33's profile**.
+🧪 Experiments with systems, graphical interfaces, automation, and custom tools.
 
-Rudha (or rudha33) is a young programer. with native skills on python and e.g
-She follows BCD Schema (Build, Compile, Deploy.)
----
+🛠️ Interests:
 
-## Interests
+ Desktop Development
+ Operating Systems
+ Reverse Engineering (for study)
+ Open Source
+ Graphical Interfaces
+ Performance and Optimization
+ Networks and Infrastructure
+ Virtualization
 
-- Linux and anything that seems complicated enough to be cool  
-- Home servers pretending to be big companies  
-- Games where the car flies more than it should  
-- Programming in trial and error mode  
--Lua & LuaU And C Is better
----
+📚 Currently studying:
+Computer Architecture
+Data Structures
+High-level Programming (ASM and C)
+Windows APIs
+Software Development in C++ and Python
 
-## Animated Zone
-
-![Working GIF](https://giphy.com/gifs/son-itsburger010-sonion-vB6Yf0DYFWLjEgpScJ)
-
----
-
-## Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-## Technical Note
-
-If something here breaks, it wasn't a mistake.
-
-It was just the system "breathing differently".
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudha33&show_icons=true&theme=tokyonight)
-
-I'm a brazlian dev. big shito
----
-
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudha33&layout=compact&theme=tokyonight)
-
----
+I am also a green hat in cybersecurity!
